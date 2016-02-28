@@ -1,0 +1,26 @@
+_repo: The-Evolution-of-Man-Scientifically-Disproved-in-50-Arguments_8508
+creator:
+  author:
+    agent_name: Williams, William A. (William Asbury)
+    aliases:
+    - Williams, W. A. (William Asbury)
+    - Williams, William Asbury
+    birthdate: 1854
+    deathdate: 1938
+    gutenberg_agent_id: '2780'
+    url: http://www.gutenberg.org/2009/agents/2780
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8508'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Evolution'
+title: The Evolution of Man Scientifically Disproved in 50 Arguments
+url: http://www.gutenberg.org/ebooks/8508
