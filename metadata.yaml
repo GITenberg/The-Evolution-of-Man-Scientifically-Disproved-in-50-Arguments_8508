@@ -1,4 +1,8 @@
 _repo: The-Evolution-of-Man-Scientifically-Disproved-in-50-Arguments_8508
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Williams, William A. (William Asbury)
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '2780'
     url: http://www.gutenberg.org/2009/agents/2780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8508#The-Evolution-of-Man-Scientifically-Disproved-in-50-Arguments
 gutenberg_bookshelf: Biology
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
